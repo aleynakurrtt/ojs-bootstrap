@@ -1,0 +1,160 @@
+.navbar {
+    background-color: #34495e;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    
+}
+
+.ms-auto{
+    margin-left: auto;
+}
+
+.navbar-brand {
+    color:white ;
+    font-size: 1.75em;
+    transition: font-size 0.3s;
+    font-weight: 750;   
+}
+
+.nav-link {
+    color: white;
+    font-size: 1rem;
+    
+}
+
+ .orta {
+    background-color: #1abc9c ;
+    color: white;
+    padding-top: calc(6rem + 104px);
+    padding-bottom: 6rem;
+    align-items: center !important;
+    flex-direction: column !important;
+    display: flex !important;
+    
+
+}
+    
+
+ .avatarone {
+    width: 15rem;
+
+ }
+
+ .mb-5 {
+    margin-bottom: 3rem ;
+ }
+
+ .bootstrap{
+
+    font-size: 4rem;
+    line-height: 3.5rem ;
+    
+ }
+
+ img{
+    vertical-align: middle;
+ }
+ .yazi{
+    font-size: 1.5rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   
+ }
+
+ .portofolio {
+    
+    padding: 8rem ;
+    text-align: center; 
+
+ }
+
+ .baslik2 {
+
+    font-size: 3rem;
+    line-height: 2.5rem;
+ }
+
+
+ .portofolio img{
+    margin-top: 3rem;
+    width: 100%;
+    height: auto;
+    border-radius: 0.25rem;
+    margin-bottom: 3rem;
+ }
+
+.page-section{
+    color: white;
+    background-color: #1abc9c ;
+    padding: 6rem;
+}
+
+ .about {
+    font-size: 3rem;
+    line-height: 2.5rem;
+    text-align: center;
+    
+ }
+
+ .lead{
+     margin-top: 0;
+     margin-bottom: 1rem;
+     font-size: 1.25rem;
+     font-weight: 300;
+    
+ }
+
+ .div p {
+    font-size: 1.25rem;
+    font-weight: 300;
+ }
+ 
+ .col-4{
+  flex: 0 auto;
+  width: 33%;
+    
+ }
+
+ .btn-xl{
+    padding: 1rem;
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+ }
+
+.footer{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+
+ .loca{
+    text-transform: uppercase;
+  
+ }
+
+ h4{
+    font-size: calc(1.275rem + 0.3vw);
+ }
+
+ .yazilar{
+    font-size: 1.25rem;
+    font-weight: 300;
+
+ }
+ 
+
+ .copyright{
+    background-color: #1a252f;
+    color: white ;
+    padding-top: 1.5rem ;
+    padding-bottom: 1.5rem ;
+}
+    
+    
+ 
